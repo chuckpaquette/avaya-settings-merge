@@ -6,4 +6,4 @@ Two things:
 Therefore:
 I wanted to create a Python project that would read my current SET commands and merge those changes with any newer 46xxsetings.txt file that I downlaod from support.avaya.com.
 
-So, learn Python and create something I find useful.
+So my goal; learn Python and create something I find useful.
