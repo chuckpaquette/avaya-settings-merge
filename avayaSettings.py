@@ -17,7 +17,7 @@ lots of error checking, and re-examine my use of a dictionary to accomplish this
 """
 
 __author__ = "Chuck Paquette"
-__version__ = "0.1.0"
+__version__ = "0.2.0"
 
 import sys
 import re
